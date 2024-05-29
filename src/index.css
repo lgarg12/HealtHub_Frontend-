@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body::-webkit-scrollbar{
+    display: none;
+}
+
+.doctor-appointment-box::-webkit-scrollbar{
+    display: none;
+}
+
+.docInfo::-webkit-scrollbar{
+    display: none;
+}
+
+.profile::-webkit-scrollbar{
+    display: none;
+}
+
+
+.c{
+    background-position: center;
+    background-size: contain;
+    border: 2px solid black;
+    cursor: pointer;
+    background: palegreen;
+}
+.c1 {background: url();}
+.c2 {background: url();}
+.c3 {background: url();}
+.c4 {background: url();}
